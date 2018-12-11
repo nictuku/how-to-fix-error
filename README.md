@@ -2,6 +2,11 @@ Errors
 
 ---
 
+How to fix: go: github.com/Sirupsen/logrus@v1.2.0: parsing go.mod: unexpected module path "github.com/sirupsen/logrus"
+===
+
+Details:
+
 ```
 $ go test -v ...
 (...)
