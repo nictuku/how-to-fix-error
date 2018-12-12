@@ -38,6 +38,7 @@ replace github.com/Sirupsen/logrus => github.com/sirupsen/logrus v1.2.0
 ---
 
 how to fix: exec: "bzr": executable file not found in $PATH
+===
 
 Details:
 
